@@ -1,7 +1,5 @@
 
-
-<video autoplay src="https://user-images.githubusercontent.com/92002390/221580698-15470f04-edb8-44dd-a900-e765566a6030.mp4" width="300" height="50%">
-<br>
+<img src="https://user-images.githubusercontent.com/92002390/221585910-4a4ae5b4-b388-4060-93eb-bac6241550bb.gif" width="300" height="50%">
 
 > ## UI <br>
 - ♥ (아이콘) / 썸네일 / 버튼 생성
